@@ -1,0 +1,4 @@
+requests
+selenium
+selenium-wire
+bs4
