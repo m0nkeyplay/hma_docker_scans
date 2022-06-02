@@ -1,1 +1,1 @@
-blank file to make directory structure work on github
+blank file to make directory structure work on github - image details are in here
