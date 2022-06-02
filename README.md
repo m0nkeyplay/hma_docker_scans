@@ -32,6 +32,8 @@ Config for NY, NY is supplied for an example
 
 ### Examples
 
+Move to the app directory to run these examples.
+
 #### To run a script scan run:
 ```
 docker run \
